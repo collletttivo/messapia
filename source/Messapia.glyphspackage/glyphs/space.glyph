@@ -1,0 +1,15 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 423;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+width = 318;
+}
+);
+note = space;
+unicode = 32;
+}

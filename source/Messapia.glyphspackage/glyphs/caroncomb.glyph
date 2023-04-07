@@ -1,0 +1,71 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (168,500);
+},
+{
+name = top;
+pos = (168,737);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,1305);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+11 10 8 6 5 5 0 74 1 1 0 0 118 0 0 0 17 0 16 2 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 336;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (388,500);
+},
+{
+name = top;
+pos = (388,730);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,1301);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+3 1 2 0 1 76 1 1 0 2 0 133 0 2 2 118 18 18 32 3 7 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 776;
+}
+);
+note = caron;
+unicode = 780;
+}

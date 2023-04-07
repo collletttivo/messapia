@@ -1,0 +1,60 @@
+{
+glyphname = Igrave;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (53,200);
+ref = gravecomb;
+}
+);
+width = 432;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-65,200);
+ref = gravecomb;
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 20 values pushed */
+0 0 4 1 1 2 0 1 103 0 2 2 17 77 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 20 values pushed */
+0 0 4 1 1 2 0 1 103 0 2 2 3 95 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 25 values pushed */
+0 0 4 1 1 2 0 1 103 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 9 8 7 6 0 5 0 4 33 5 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 410;
+}
+);
+note = Igrave;
+unicode = 204;
+}

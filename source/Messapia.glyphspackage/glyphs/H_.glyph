@@ -1,0 +1,124 @@
+{
+glyphname = H;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(708,72,l),
+(598,4,l),
+(598,0,l),
+(899,0,l),
+(899,4,l),
+(791,72,l),
+(791,628,l),
+(899,699,l),
+(899,700,l),
+(598,700,l),
+(598,699,l),
+(708,628,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,628,l),
+(341,696,l),
+(341,700,l),
+(40,700,l),
+(40,696,l),
+(150,628,l),
+(150,72,l),
+(40,4,l),
+(40,0,l),
+(341,0,l),
+(341,4,l),
+(233,72,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(715,381,l),
+(226,381,l),
+(226,349,l),
+(715,349,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 16 values pushed */
+25 10 5 2 4 0 1 24 19 16 11 4 2 3 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+23 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 0 3 2 0 3 103 6 5 2 1 1 17 77 4 1 2 2 21 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+6 5 2 1 0 1 133 0 0 0 3 2 0 3 103 4 1 2 2 21 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 27 0 26 34 19 36 34 19 7 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 939;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,0,l),
+(274,0,l),
+(274,295,l),
+(769,295,l),
+(769,0,l),
+(943,0,l),
+(943,700,l),
+(769,700,l),
+(769,435,l),
+(274,435,l),
+(274,700,l),
+(100,700,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 0 3 2 0 3 103 6 5 2 1 1 17 77 4 1 2 2 18 2 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 0 3 2 0 3 103 6 5 2 1 1 2 95 4 1 2 2 18 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 29 values pushed */
+6 5 2 1 0 2 1 87 0 0 0 3 2 0 3 103 6 5 2 1 1 2 95 4 1 2 1 2 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 11 0 11 17 17 17 17 17 7 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 1043;
+}
+);
+note = H;
+unicode = 72;
+}

@@ -1,0 +1,114 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (168,500);
+},
+{
+name = top;
+pos = (168,717);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,578,l),
+(204,710,ls),
+(192,725,o),
+(184,737,o),
+(168,737,cs),
+(154,737,o),
+(144,725,o),
+(132,710,cs),
+(20,578,l),
+(30,568,l),
+(168,678,l),
+(306,568,l)
+);
+}
+);
+width = 336;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (388,500);
+},
+{
+name = top;
+pos = (388,730);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(464,571,l),
+(637,571,l),
+(479,730,l),
+(297,730,l),
+(139,571,l),
+(314,571,l),
+(389,652,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+8 1 0 1 1 76 0 1 0 1 133 2 1 0 0 118 33 18 16 3 7 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 776;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (168,500);
+},
+{
+name = top;
+pos = (168,724);
+}
+);
+associatedMasterId = m01;
+layerId = "BE6E26BD-EA15-4266-8664-60E7DFFA9A9C";
+name = "11 feb 22, 18:46";
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,548,l),
+(204,690,ls),
+(194,707,o),
+(189,724,o),
+(168,724,cs),
+(150,724,o),
+(141,706,o),
+(132,690,cs),
+(50,548,l),
+(64,538,l),
+(168,658,l),
+(272,538,l)
+);
+}
+);
+width = 336;
+}
+);
+note = circumflex;
+unicode = 770;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = lessequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (477,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 480;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (660,0);
+ref = greaterequal;
+scale = (-1,1);
+}
+);
+width = 650;
+}
+);
+note = lessequal;
+unicode = 8804;
+}

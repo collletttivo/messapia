@@ -1,0 +1,199 @@
+{
+glyphname = P;
+kernLeft = P;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,68,l),
+(166,638,l),
+(40,698,l),
+(40,700,l),
+(422,700,ls),
+(609,700,o),
+(733,639,o),
+(733,497,cs),
+(733,370,o),
+(609,301,o),
+(422,301,cs),
+(248,301,l),
+(248,68,l),
+(414,2,l),
+(414,0,l),
+(40,0,l),
+(40,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(422,333,ls),
+(546,333,o),
+(633,388,o),
+(633,502,cs),
+(633,614,o),
+(546,668,o),
+(422,668,cs),
+(248,668,l),
+(248,333,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 11 values pushed */
+12 1 4 3 13 2 2 2 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+0 4 0 0 2 4 0 103 0 3 3 1 95 0 1 1 17 77 5 1 2 2 21 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 1 0 3 4 1 3 103 0 4 0 0 2 4 0 103 5 1 2 2 21 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 15 values pushed */
+0 0 26 24 18 16 0 15 0 14 35 35 6 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 763;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,700,l),
+(521,700,ls),
+(776,700,o),
+(903,622,o),
+(903,466,cs),
+(903,309,o),
+(776,231,o),
+(521,231,cs),
+(272,231,l),
+(272,0,l),
+(100,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(541,356,ls),
+(657,356,o),
+(713,389,o),
+(713,466,cs),
+(713,543,o),
+(657,576,o),
+(541,576,cs),
+(275,576,l),
+(275,356,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+0 4 0 0 2 4 0 103 0 3 3 1 95 0 1 1 17 77 5 1 2 2 18 2 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+0 1 0 3 4 1 3 103 0 4 0 0 2 4 0 103 5 1 2 2 18 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+5 1 2 0 2 134 0 1 0 3 4 1 3 103 0 4 0 0 4 87 0 4 4 0 95 0 0 4 0 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 15 values pushed */
+0 0 17 15 11 9 0 8 0 8 34 33 6 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 963;
+},
+{
+associatedMasterId = m01;
+layerId = "841E1A30-08AA-4EAB-BF44-BB784610F238";
+name = "11 feb 22, 18:16";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,62,l),
+(161,588,l),
+(35,648,l),
+(35,650,l),
+(419,650,ls),
+(549,650,o),
+(645,635,o),
+(707,606,cs),
+(769,577,o),
+(800,532,o),
+(800,472,cs),
+(800,338,o),
+(650,271,o),
+(349,271,cs),
+(245,271,l),
+(245,62,l),
+(371,2,l),
+(371,0,l),
+(35,0,l),
+(35,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(349,301,ls),
+(516,301,o),
+(618,314,o),
+(660,366,cs),
+(680,391,o),
+(690,423,o),
+(690,462,cs),
+(690,581,o),
+(612,624,o),
+(419,624,cs),
+(245,624,l),
+(245,301,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 11 values pushed */
+12 1 4 3 13 2 2 2 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+0 4 0 0 2 4 0 103 0 3 3 1 95 0 1 1 17 77 5 1 2 2 21 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 1 0 3 4 1 3 103 0 4 0 0 2 4 0 103 5 1 2 2 21 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 15 values pushed */
+0 0 26 24 18 16 0 15 0 14 35 35 6 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 780;
+}
+);
+metricLeft = H;
+note = P;
+unicode = 80;
+}

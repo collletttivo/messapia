@@ -1,0 +1,361 @@
+{
+glyphname = R;
+kernLeft = R;
+kernRight = R;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (431,0);
+},
+{
+name = top;
+pos = (431,650);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,2,l),
+(531,0,l),
+(822,0,l),
+(822,2,l),
+(673,61,l),
+(499,340,l),
+(407,340,l),
+(582,55,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,0,l),
+(374,0,l),
+(374,2,l),
+(248,62,l),
+(248,324,l),
+(430,324,ls),
+(607,324,o),
+(737,386,o),
+(737,509,cs),
+(737,646,o),
+(607,700,o),
+(430,700,cs),
+(40,700,l),
+(40,698,l),
+(166,638,l),
+(164,62,l),
+(40,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(248,668,l),
+(420,668,ls),
+(534,668,o),
+(639,621,o),
+(639,509,cs),
+(639,404,o),
+(524,358,o),
+(420,358,cs),
+(248,358,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 12 values pushed */
+25 1 2 6 26 7 2 3 1 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+7 1 2 3 1 0 1 2 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 21 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 26 values pushed */
+0 4 0 6 2 4 6 103 7 1 2 3 1 0 1 2 0 105 8 5 2 1 1 21 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+0 0 39 37 31 29 0 28 0 27 37 17 19 34 51 9 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 863;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (497,0);
+},
+{
+name = top;
+pos = (497,700);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(705,241,o),
+(903,282,o),
+(903,471,cs),
+(903,627,o),
+(776,700,o),
+(521,700,cs),
+(100,700,l),
+(100,0,l),
+(272,0,l),
+(272,241,l),
+(521,241,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(275,576,l),
+(541,576,ls),
+(657,576,o),
+(713,548,o),
+(713,471,cs),
+(713,399,o),
+(657,366,o),
+(541,366,cs),
+(275,366,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(892,0,l),
+(602,349,l),
+(402,349,l),
+(692,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+14 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+7 1 2 3 1 0 1 2 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 34 values pushed */
+0 2 7 0 7 2 114 0 7 3 1 0 1 7 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+0 2 7 0 7 2 114 0 4 0 6 7 4 6 103 0 7 3 1 0 1 7 0 105 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 39 values pushed */
+0 2 7 0 7 2 114 8 5 2 1 0 1 134 0 4 0 6 7 4 6 103 0 7 2 0 7 87 0 7 7 0 97 3 1 0 7 0 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+0 0 26 24 20 18 0 17 0 17 36 33 18 17 17 9 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 973;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (433,0);
+},
+{
+name = top;
+pos = (433,650);
+}
+);
+associatedMasterId = m01;
+layerId = "049F0853-34B3-4E92-8D86-BBD25BB006F1";
+name = "14 feb 22, 11:58";
+shapes = (
+{
+closed = 1;
+nodes = (
+(439,307,l),
+(531,307,l),
+(704,66,l),
+(854,2,l),
+(854,0,l),
+(563,0,l),
+(563,2,l),
+(613,60,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(166,67,l),
+(168,588,l),
+(42,648,l),
+(42,650,l),
+(432,650,ls),
+(609,650,o),
+(739,596,o),
+(739,467,cs),
+(739,343,o),
+(609,281,o),
+(432,281,cs),
+(250,281,l),
+(250,67,l),
+(376,2,l),
+(376,0,l),
+(42,0,l),
+(42,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(432,314,ls),
+(536,314,o),
+(641,361,o),
+(641,467,cs),
+(641,571,o),
+(536,618,o),
+(432,618,cs),
+(250,618,l),
+(250,314,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 12 values pushed */
+25 1 2 6 26 7 2 3 1 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+7 1 2 3 1 0 1 2 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 21 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 26 values pushed */
+0 4 0 6 2 4 6 103 7 1 2 3 1 0 1 2 0 105 8 5 2 1 1 21 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+0 0 39 37 31 29 0 28 0 27 37 17 19 34 51 9 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 865;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (497,0);
+},
+{
+name = top;
+pos = (497,700);
+}
+);
+associatedMasterId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+layerId = "580B79D3-41AA-4DF4-B045-8F7F322A92B5";
+name = "21 feb 22, 14:51";
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,700,l),
+(521,700,ls),
+(776,700,o),
+(903,622,o),
+(903,466,cs),
+(903,347,o),
+(830,274,o),
+(683,245,cs),
+(639,236,o),
+(585,231,o),
+(521,231,cs),
+(494,231,l),
+(402,339,l),
+(602,339,l),
+(886,8,l),
+(892,0,l),
+(692,0,l),
+(494,231,l),
+(262,231,l),
+(262,0,l),
+(90,0,l),
+(90,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(541,356,ls),
+(657,356,o),
+(713,389,o),
+(713,466,cs),
+(713,543,o),
+(657,576,o),
+(541,576,cs),
+(265,576,l),
+(265,356,l),
+(265,356,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+14 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+7 1 2 3 1 0 1 2 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 34 values pushed */
+0 2 7 0 7 2 114 0 7 3 1 0 1 7 0 105 0 6 6 4 95 0 4 4 17 77 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+0 2 7 0 7 2 114 0 4 0 6 7 4 6 103 0 7 3 1 0 1 7 0 105 8 5 2 1 1 18 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 39 values pushed */
+0 2 7 0 7 2 114 8 5 2 1 0 1 134 0 4 0 6 7 4 6 103 0 7 2 0 7 87 0 7 7 0 97 3 1 0 7 0 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+0 0 26 24 20 18 0 17 0 17 36 33 18 17 17 9 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 983;
+}
+);
+metricLeft = H;
+note = R;
+unicode = 82;
+}

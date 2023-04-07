@@ -1,0 +1,144 @@
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (205,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,0,l),
+(91.333,-38,o),
+(50,-72,o),
+(50,-118,cs),
+(50,-161,o),
+(91,-188,o),
+(134,-188,cs),
+(182,-188,o),
+(224,-159,o),
+(249,-128,c),
+(238,-118,l),
+(214,-143,o),
+(189,-156,o),
+(163,-156,cs),
+(128,-156,o),
+(108,-131,o),
+(108,-99,cs),
+(108,-62,o),
+(146,-28,o),
+(205,0,c)
+);
+}
+);
+width = 299;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (380,-15);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(313,-270,o),
+(352,-261,o),
+(380,-252,c),
+(380,-140,l),
+(346,-150,o),
+(314,-155,o),
+(297,-155,cs),
+(256,-155,o),
+(232,-137,o),
+(232,-110,cs),
+(232,-62,o),
+(326,-33,o),
+(380,-15,c),
+(201,-15,l),
+(109,-49,o),
+(70,-85,o),
+(70,-146,cs),
+(70,-217,o),
+(139,-270,o),
+(244,-270,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 10 values pushed */
+14 1 1 0 16 1 2 1 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+0 0 1 1 0 112 0 1 2 2 1 89 0 1 1 2 98 3 1 2 1 2 82 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 1 0 133 0 1 2 2 1 89 0 1 1 2 98 3 1 2 1 2 82 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 18 0 17 37 21 4 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 430;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (249,0);
+}
+);
+associatedMasterId = m01;
+layerId = "E6530CE9-C0D4-446B-A2E1-07A4A5C011C4";
+name = "11 feb 22, 18:53";
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,0,l),
+(91.333,-38,o),
+(50,-85,o),
+(50,-121,cs),
+(50,-164,o),
+(90,-188,o),
+(135,-188,cs),
+(181,-188,o),
+(224,-159,o),
+(249,-128,c),
+(238,-118,l),
+(214,-143,o),
+(189,-156,o),
+(163,-156,cs),
+(126,-156,o),
+(108,-140,o),
+(108,-108,cs),
+(108,-71,o),
+(140.333,-28,o),
+(205,0,c)
+);
+}
+);
+width = 299;
+}
+);
+note = ogonek;
+unicode = 808;
+}

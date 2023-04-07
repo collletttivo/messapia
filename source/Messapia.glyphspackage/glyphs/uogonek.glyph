@@ -1,0 +1,42 @@
+{
+glyphname = uogonek;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (525,0);
+ref = ogonekcomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 61 values pushed */
+42 38 26 19 4 5 4 7 6 2 0 3 2 76 0 0 0 1 0 1 101 6 1 4 4 20 77 8 7 2 2 2 21 77 0 5 5 3 97 0 3 3 27 3 78 0 0 0 44 0 43 37 35 36 35 21 37 35 9 7 29 
+CALL[ ]	/* CallFunction */";
+};
+width = 803;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = u;
+},
+{
+alignment = -1;
+pos = (416,15);
+ref = ogonekcomb;
+scale = (0.9923,1);
+}
+);
+width = 883;
+}
+);
+note = uogonek;
+unicode = 371;
+}

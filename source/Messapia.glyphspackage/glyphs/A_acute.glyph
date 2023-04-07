@@ -1,0 +1,72 @@
+{
+glyphname = Aacute;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (163,500);
+},
+{
+name = top;
+pos = (163,731);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (265,200);
+ref = acutecomb;
+}
+);
+width = 822;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (345,200);
+ref = acutecomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+15 1 6 2 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 0 0 1 2 0 1 103 7 1 6 0 4 3 6 4 104 0 2 2 17 77 5 1 3 3 18 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+0 2 1 6 1 2 6 128 0 0 0 1 2 0 1 103 7 1 6 0 4 3 6 4 104 5 1 3 3 18 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 40 values pushed */
+0 2 1 6 1 2 6 128 5 1 3 4 3 134 0 0 0 1 2 0 1 103 7 1 6 4 4 6 87 7 1 6 6 4 96 0 4 6 4 80 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 15 values pushed */
+14 14 14 16 14 16 17 17 17 18 18 16 8 7 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 960;
+}
+);
+note = Aacute;
+unicode = 193;
+}

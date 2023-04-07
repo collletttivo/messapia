@@ -1,0 +1,64 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(283,78,l),
+(226,142,o),
+(179,200,o),
+(142,253,c),
+(179,306,o),
+(226,364,o),
+(283,428,c),
+(269,442,l),
+(247,420,o),
+(219,395,o),
+(186,366,cs),
+(96,290,l),
+(50,253,l),
+(96,216,l),
+(186,140,ls),
+(219,111,o),
+(247,86,o),
+(269,64,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+13 7 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 333;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(384,6,l),
+(384,166,l),
+(237,256,l),
+(384,346,l),
+(384,506,l),
+(60,316,l),
+(60,196,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 1 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 434;
+}
+);
+note = guilsinglleft;
+unicode = 8249;
+}

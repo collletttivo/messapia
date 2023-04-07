@@ -1,0 +1,51 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (353,1271);
+ref = quotedblleft;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+39 3 2 0 1 1 76 34 22 21 3 0 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+44 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 13 values pushed */
+3 1 0 0 1 97 2 1 1 1 19 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+2 1 1 0 0 1 89 2 1 1 1 0 97 3 1 0 1 0 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+45 43 38 36 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 353;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,614);
+ref = quotedblbase;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 35 values pushed */
+11 4 2 0 1 1 76 5 1 2 0 2 134 3 1 0 0 1 95 4 1 1 1 19 0 78 18 17 17 18 17 16 6 7 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 503;
+}
+);
+note = quotedblright;
+unicode = 8221;
+}

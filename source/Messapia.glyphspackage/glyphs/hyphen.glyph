@@ -1,0 +1,47 @@
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,244,l),
+(343,299,l),
+(40,299,l),
+(40,244,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 383;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,205,l),
+(420,206,l),
+(420,340,l),
+(40,340,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+2 1 1 0 0 1 87 2 1 1 1 0 95 0 0 1 0 79 0 0 0 3 0 3 17 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 460;
+}
+);
+note = hyphen;
+unicode = 45;
+}

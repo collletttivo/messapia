@@ -1,0 +1,77 @@
+{
+glyphname = Ccedilla;
+kernLeft = C;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+alignment = -1;
+pos = (293,0);
+ref = cedillacomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 61 values pushed */
+38 1 4 3 56 55 40 37 4 5 4 2 76 24 1 2 1 75 23 22 13 3 1 73 0 0 0 1 0 1 101 0 4 4 3 97 0 3 3 17 77 0 5 5 2 97 0 2 2 27 2 78 38 40 38 36 45 51 6 7 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 819;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (281,-15);
+ref = cedillacomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 15 values pushed */
+28 1 0 4 29 10 2 1 0 11 1 3 1 3 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 26 values pushed */
+0 2 3 2 134 0 0 0 4 97 0 4 4 23 77 0 1 1 3 97 0 3 3 24 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 26 values pushed */
+0 2 3 2 134 0 0 0 4 97 0 4 4 19 77 0 1 1 3 97 0 3 3 24 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 2 3 2 134 0 1 0 3 2 1 3 105 0 0 0 4 97 0 4 4 19 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 29 values pushed */
+0 2 3 2 134 0 4 0 0 1 4 0 105 0 1 3 3 1 89 0 1 1 3 97 0 3 1 3 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 8 values pushed */
+38 18 22 36 32 5 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 882;
+}
+);
+note = Ccedilla;
+unicode = 199;
+}

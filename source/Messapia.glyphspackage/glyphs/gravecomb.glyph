@@ -1,0 +1,77 @@
+{
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (163,500);
+},
+{
+name = top;
+pos = (163,876);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,721,ls),
+(104,734,o),
+(93,741,o),
+(79,741,cs),
+(57,741,o),
+(48,725,o),
+(48,711,cs),
+(48,690,o),
+(64,679,o),
+(83,671,cs),
+(257,596,l),
+(266,608,l)
+);
+}
+);
+width = 325;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (270,500);
+},
+{
+name = top;
+pos = (206,700);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,740,l),
+(42,740,l),
+(40,737,l),
+(202,571,l),
+(360,571,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 5 0 4 33 3 7 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 412;
+}
+);
+note = grave;
+unicode = 768;
+}

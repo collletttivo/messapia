@@ -1,0 +1,51 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,183,o),
+(220,219,o),
+(220,268,cs),
+(220,317,o),
+(183,354,o),
+(135,354,cs),
+(87,354,o),
+(50,317,o),
+(50,268,cs),
+(50,219,o),
+(87,183,o),
+(135,183,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 2 1 1 0 1 81 0 0 0 11 0 10 36 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 270;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (-21,167);
+ref = period;
+scale = (1.4118,1.4118);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 2 1 1 0 1 81 0 0 0 11 0 10 36 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 351;
+}
+);
+note = bullet;
+unicode = 8226;
+}

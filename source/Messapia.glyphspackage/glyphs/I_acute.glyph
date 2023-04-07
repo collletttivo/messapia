@@ -1,0 +1,60 @@
+{
+glyphname = Iacute;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (93,200);
+ref = acutecomb;
+}
+);
+width = 432;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (70,200);
+ref = acutecomb;
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 1 2 0 1 103 0 2 2 17 77 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 1 2 0 1 103 0 2 2 3 95 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 1 2 0 1 103 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+17 18 18 16 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 410;
+}
+);
+note = Iacute;
+unicode = 205;
+}

@@ -1,0 +1,127 @@
+{
+glyphname = X;
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(406,342,l),
+(182,75,l),
+(35,2,l),
+(35,0,l),
+(364,0,l),
+(364,2,l),
+(224,69,l),
+(429,317,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,359,l),
+(696,628,l),
+(855,698,l),
+(855,700,l),
+(525,700,l),
+(525,698,l),
+(655,632,l),
+(450,385,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(262,638,l),
+(374,698,l),
+(374,700,l),
+(4,700,l),
+(4,698,l),
+(144,637,l),
+(635,61,l),
+(510,2,l),
+(510,0,l),
+(880,0,l),
+(880,2,l),
+(738,72,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+26 20 19 18 12 6 5 4 8 0 2 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 13 values pushed */
+3 1 2 2 17 77 1 1 0 0 21 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 13 values pushed */
+3 1 2 0 2 133 1 1 0 0 21 0 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+37 37 37 32 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 883;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(759,0,l),
+(987,0,l),
+(632,362,l),
+(975,700,l),
+(749,700,l),
+(515,474,l),
+(281,700,l),
+(53,700,l),
+(397,362,l),
+(43,0,l),
+(269,0,l),
+(515,251,l),
+(515,251,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 9 values pushed */
+11 8 5 2 4 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 13 values pushed */
+2 1 1 1 17 77 3 1 0 0 18 0 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 13 values pushed */
+2 1 1 1 0 95 3 1 0 0 18 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+2 1 1 0 0 1 87 2 1 1 1 0 95 3 1 0 1 0 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+18 18 18 16 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 1030;
+}
+);
+note = X;
+unicode = 88;
+}

@@ -1,0 +1,79 @@
+{
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (182,500);
+},
+{
+name = top;
+pos = (182,702);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (-7,-23);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (170,-23);
+ref = dotaccentcomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 26 values pushed */
+2 1 1 0 0 1 89 2 1 1 1 0 97 3 1 0 1 0 81 38 38 38 34 4 7 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 363;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (254,500);
+},
+{
+name = top;
+pos = (254,745);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (249,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-20,-1);
+ref = dotaccentcomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 34 values pushed */
+3 1 0 1 1 0 89 3 1 0 0 1 97 2 4 2 1 0 1 81 0 0 21 19 15 13 0 11 0 10 36 5 7 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 507;
+}
+);
+note = dieresis;
+unicode = 776;
+}

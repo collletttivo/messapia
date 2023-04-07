@@ -1,0 +1,268 @@
+{
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (117,0);
+},
+{
+name = bottom;
+pos = (145,-250);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,-77,o),
+(213,-54,o),
+(176,-54,cs),
+(152,-54,o),
+(138,-61,o),
+(130,-65,c),
+(184,0,l),
+(148,0,l),
+(67,-100,l),
+(86,-113,l),
+(103,-102,o),
+(126,-91,o),
+(146,-91,cs),
+(176,-91,o),
+(190,-105,o),
+(190,-138,cs),
+(190,-176,o),
+(158,-202,o),
+(70,-201,c),
+(71,-224,l),
+(178,-226,o),
+(251,-184,o),
+(251,-127,cs)
+);
+}
+);
+width = 290;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (145,0);
+},
+{
+name = bottom;
+pos = (145,-250);
+}
+);
+associatedMasterId = m01;
+layerId = "D4BD8020-FBB5-4E21-A6E7-2400E8AF5C92";
+name = "11 feb 22, 18:51";
+shapes = (
+{
+closed = 1;
+nodes = (
+(240,-90,o),
+(219,-73,qs),
+(196,-56,o),
+(163,-56,qs),
+(151,-56,o),
+(147,-57,q),
+(182,0,l),
+(168,0,l),
+(83,-96,l),
+(94,-107,l),
+(120,-93,o),
+(149,-93,qs),
+(194,-93,o),
+(194,-131,qs),
+(194,-165,o),
+(153,-195,qs),
+(113,-225,o),
+(50,-234,q),
+(52,-250,l),
+(121,-243,o),
+(181,-205,qs),
+(240,-167,o),
+(240,-117,qs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+PUSHB[ ]	/* 6 values pushed */
+13 12 3 3 0 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+23 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 1 2 2 1 112 0 2 0 0 2 89 0 2 2 0 98 0 0 2 0 82 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+0 1 2 1 133 0 2 0 0 2 89 0 2 2 0 98 0 0 2 0 82 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+49 19 41 3 7 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 290;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (195,0);
+},
+{
+name = bottom;
+pos = (195,-186);
+}
+);
+associatedMasterId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+layerId = "F63E43BF-460F-4183-B12B-D87A45812D51";
+name = "21 feb 22, 11:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(52,-186,l),
+(236,-186,l),
+(339,0,l),
+(174,0,l),
+(50,-182,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 389;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (235,0);
+},
+{
+name = bottom;
+pos = (195,-186);
+}
+);
+associatedMasterId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+layerId = "BC16DDFF-F590-4C5B-B340-45FB9DC5A545";
+name = "22 feb 22, 11:48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,10,l),
+(186,-16,o),
+(200,-56,o),
+(200,-81,cs),
+(200,-146,o),
+(134,-141,o),
+(43,-118,c),
+(23,-214,l),
+(62,-224,o),
+(97,-236,o),
+(158,-236,cs),
+(260,-235,o),
+(326,-190,o),
+(326,-101,cs),
+(326,-66,o),
+(317,-38,o),
+(288,10,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 389;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (235,0);
+},
+{
+name = bottom;
+pos = (195,-186);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,-89,o),
+(356,-54,o),
+(298,-54,cs),
+(267,-54,o),
+(252,-63,o),
+(244,-72,c),
+(236,-72,l),
+(281,4,l),
+(170,4,l),
+(93,-150,l),
+(193,-150,l),
+(211,-119,o),
+(225,-112,o),
+(240,-112,cs),
+(256,-112,o),
+(270,-121,o),
+(270,-141,cs),
+(270,-176,o),
+(223,-185,o),
+(132,-184,c),
+(133,-270,l),
+(351,-272,o),
+(396,-206,o),
+(396,-141,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 389;
+}
+);
+note = cedilla;
+unicode = 807;
+}

@@ -1,0 +1,109 @@
+{
+glyphname = F;
+kernLeft = F;
+kernRight = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(148,73,l),
+(40,3,l),
+(40,0,l),
+(381,0,l),
+(381,3,l),
+(231,73,l),
+(231,331,l),
+(489,331,l),
+(569,209,l),
+(571,209,l),
+(571,480,l),
+(569,480,l),
+(489,363,l),
+(231,363,l),
+(231,669,l),
+(580,669,l),
+(740,491,l),
+(742,493,l),
+(639,720,l),
+(637,720,l),
+(593,700,l),
+(45,700,l),
+(45,698,l),
+(148,638,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 18 values pushed */
+23 11 5 3 2 1 22 17 13 3 4 3 2 76 3 1 0 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 2 0 3 4 2 3 103 0 1 1 0 95 0 0 0 17 77 0 4 4 21 4 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 0 1 2 0 1 103 0 2 0 3 4 2 3 103 0 4 4 21 4 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 8 values pushed */
+34 21 17 21 32 5 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 762;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,0,l),
+(274,0,l),
+(274,271,l),
+(742,271,l),
+(742,411,l),
+(274,411,l),
+(274,560,l),
+(891,560,l),
+(891,700,l),
+(100,700,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+0 1 0 2 3 1 2 103 0 0 0 4 95 5 1 4 4 17 77 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+5 1 4 0 0 1 4 0 103 0 1 0 2 3 1 2 103 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 3 2 3 134 5 1 4 0 0 1 4 0 103 0 1 2 2 1 87 0 1 1 2 95 0 2 1 2 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 13 values pushed */
+0 0 0 9 0 9 17 17 17 17 6 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 981;
+}
+);
+metricLeft = H;
+note = F;
+unicode = 70;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = guillemotleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-20,0);
+ref = guilsinglleft;
+},
+{
+pos = (150,0);
+ref = guilsinglleft;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+23 17 13 7 2 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 483;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (362,0);
+ref = guilsinglleft;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+12 8 5 1 2 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 806;
+}
+);
+note = guillemotleft;
+unicode = 171;
+}

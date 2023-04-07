@@ -1,0 +1,74 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,-15,o),
+(156,11,o),
+(156,43,cs),
+(156,75,o),
+(129,101,o),
+(98,101,cs),
+(66,101,o),
+(40,75,o),
+(40,43,cs),
+(40,11,o),
+(67,-15,o),
+(98,-15,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 22 values pushed */
+0 0 0 1 97 2 1 1 1 27 1 78 0 0 0 11 0 10 36 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 196;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(84.333,-10,o),
+(50,18.667,o),
+(50,72,cs),
+(50,125.333,o),
+(84.333,154,o),
+(139,154,cs),
+(193.667,154,o),
+(228,125.333,o),
+(228,72,cs),
+(228,18.667,o),
+(193.667,-10,o),
+(139,-10,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 0 0 1 97 2 1 1 1 24 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 17 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 2 1 1 0 1 81 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+0 0 0 11 0 10 36 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 278;
+}
+);
+note = period;
+unicode = 46;
+}

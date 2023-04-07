@@ -1,0 +1,35 @@
+{
+glyphname = Ncaron;
+kernLeft = N;
+kernRight = N;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (290,200);
+ref = caroncomb;
+}
+);
+width = 915;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (130,200);
+ref = caroncomb;
+}
+);
+width = 1025;
+}
+);
+note = Ncaron;
+unicode = 327;
+}

@@ -1,0 +1,79 @@
+{
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (201,500);
+},
+{
+name = top;
+pos = (251,708);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (3,-4);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (174,-3);
+ref = acutecomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 15 values pushed */
+20 8 2 0 73 1 1 0 0 118 42 32 2 7 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 501;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (300,500);
+},
+{
+name = top;
+pos = (366,730);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (20,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (299,0);
+ref = acutecomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 26 values pushed */
+2 1 0 1 1 0 87 2 1 0 0 1 95 3 1 1 0 1 79 18 18 18 16 4 7 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 731;
+}
+);
+note = hungarumlaut;
+unicode = 779;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-6,466);
+ref = bar;
+scale = (1,0.3776);
+},
+{
+pos = (-6,-94);
+ref = bar;
+scale = (1,0.3776);
+}
+);
+width = 120;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,-96);
+ref = bar;
+scale = (1,0.4375);
+},
+{
+pos = (0,421);
+ref = bar;
+scale = (1,0.4375);
+}
+);
+width = 255;
+}
+);
+note = brokenbar;
+unicode = 166;
+}

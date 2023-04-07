@@ -1,0 +1,62 @@
+{
+glyphname = Eogonek;
+kernLeft = E;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (415,0);
+ref = ogonekcomb;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+44 11 5 3 2 1 43 19 13 3 4 3 30 29 23 21 4 5 7 3 76 3 1 0 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+23 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 39 values pushed */
+0 2 0 3 4 2 3 103 0 1 1 0 95 0 0 0 17 77 0 4 4 7 95 0 7 7 21 77 0 5 5 6 97 0 6 6 22 6 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 36 values pushed */
+0 2 0 3 4 2 3 103 0 5 0 6 5 6 101 0 1 1 0 95 0 0 0 17 77 0 4 4 7 95 0 7 7 21 7 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 34 values pushed */
+0 0 0 1 2 0 1 103 0 2 0 3 4 2 3 103 0 5 0 6 5 6 101 0 4 4 7 95 0 7 7 21 7 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+21 37 40 17 21 17 21 32 8 7 30 
+CALL[ ]	/* CallFunction */";
+};
+width = 784;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (530,25);
+ref = ogonekcomb;
+}
+);
+width = 1009;
+}
+);
+note = Eogonek;
+unicode = 280;
+}

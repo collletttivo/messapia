@@ -1,0 +1,58 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,-150,l),
+(86,751,l),
+(51,751,l),
+(51,-150,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+28 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 1 0 133 0 1 1 22 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 9 values pushed */
+0 0 1 0 133 0 1 1 118 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+17 16 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 126;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,-170,l),
+(210,-170,l),
+(210,750,l),
+(65,750,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+2 1 1 0 0 1 87 2 1 1 1 0 95 0 0 1 0 79 0 0 0 3 0 3 17 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 275;
+}
+);
+note = bar;
+unicode = 124;
+}

@@ -1,0 +1,66 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,321,l),
+(252,705,l),
+(226,705,l),
+(50,321,l),
+(73,311,l),
+(238,676,l),
+(405,311,l),
+(405,311,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 13 values pushed */
+5 2 2 0 73 0 0 0 118 19 1 7 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 478;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(551,310,l),
+(710,310,l),
+(464,767,l),
+(336,767,l),
+(90,310,l),
+(251,310,l),
+(400,590,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+6 1 0 1 1 76 0 1 0 1 133 2 1 0 0 118 17 17 16 3 7 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 800;
+}
+);
+note = asciicircum;
+unicode = 94;
+}

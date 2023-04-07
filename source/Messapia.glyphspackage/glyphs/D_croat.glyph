@@ -1,0 +1,56 @@
+{
+glyphname = Dcroat;
+kernLeft = D;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,308,l),
+(45,333,l),
+(357,333,l),
+(357,308,l)
+);
+},
+{
+ref = D;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+16 1 4 7 2 1 8 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+6 1 4 5 3 2 0 8 4 0 103 0 7 7 2 95 0 2 2 17 77 0 8 8 1 95 0 1 1 21 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 2 0 7 4 2 7 103 6 1 4 5 3 2 0 8 4 0 103 0 8 8 1 95 0 1 1 21 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 12 values pushed */
+36 33 17 17 17 19 38 50 16 9 7 31 
+CALL[ ]	/* CallFunction */";
+};
+width = 841;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1128;
+}
+);
+metricLeft = D;
+metricRight = D;
+note = Dcroat;
+unicode = 272;
+}

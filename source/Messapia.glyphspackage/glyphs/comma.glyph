@@ -1,0 +1,86 @@
+{
+glyphname = comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,-10,o),
+(129,-4,o),
+(136,7,c),
+(136,-39,o),
+(116,-92,o),
+(45,-128,c),
+(52,-141,l),
+(124,-114,o),
+(163,-50,o),
+(163,11,cs),
+(163,64,o),
+(141,102,o),
+(99,102,cs),
+(65,102,o),
+(40,76,o),
+(40,45,cs),
+(40,14,o),
+(64,-10,o),
+(94,-10,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 33 values pushed */
+18 1 1 0 1 76 16 15 2 1 73 0 0 0 1 97 2 1 1 1 21 1 78 0 0 0 20 0 19 38 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 193;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(167,-95,l),
+(186,-54,ls),
+(202,-19,o),
+(225,28,o),
+(225,69,cs),
+(225,114,o),
+(192,155,o),
+(137,155,cs),
+(86,155,o),
+(44,123,o),
+(44,69,cs),
+(44,8,o),
+(93,-11,o),
+(127,-11,c),
+(91,-95,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+4 1 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 2 0 2 134 0 1 1 0 95 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+0 2 0 2 134 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+18 17 16 3 7 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 300;
+}
+);
+note = comma;
+unicode = 44;
+}

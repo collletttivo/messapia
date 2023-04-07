@@ -1,0 +1,63 @@
+{
+glyphname = Lslash;
+kernLeft = L;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,437,l),
+(381,467,l),
+(31,279,l),
+(44,249,l)
+);
+},
+{
+ref = L;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 21 values pushed */
+23 22 21 20 13 10 9 8 7 6 1 0 12 1 0 1 76 15 1 2 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 0 17 77 0 1 1 2 95 0 2 2 21 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 0 133 0 1 1 2 95 0 2 2 21 2 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+21 23 34 3 7 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 775;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = L;
+},
+{
+closed = 1;
+nodes = (
+(434,384,l),
+(391,487,l),
+(-29,299,l),
+(14,196,l)
+);
+}
+);
+width = 866;
+}
+);
+note = Lslash;
+unicode = 321;
+}

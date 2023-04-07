@@ -1,0 +1,45 @@
+{
+glyphname = equal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-80);
+ref = minus;
+},
+{
+pos = (0,80);
+ref = minus;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 39 values pushed */
+4 1 1 0 0 2 1 0 103 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 0 0 7 6 5 4 0 3 0 3 17 5 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 480;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,89);
+ref = minus;
+},
+{
+pos = (0,-121);
+ref = minus;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 39 values pushed */
+4 1 1 0 0 2 1 0 103 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 0 0 7 6 5 4 0 3 0 3 17 5 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 740;
+}
+);
+note = equal;
+unicode = 61;
+}

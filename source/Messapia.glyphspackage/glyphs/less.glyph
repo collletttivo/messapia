@@ -1,0 +1,39 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (481,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 1 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 486;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (847,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 1 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 847;
+}
+);
+note = less;
+unicode = 60;
+}

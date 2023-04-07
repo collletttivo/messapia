@@ -1,0 +1,63 @@
+{
+glyphname = ellipsis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-10,0);
+ref = period;
+},
+{
+pos = (309,0);
+ref = period;
+},
+{
+pos = (628,0);
+ref = period;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 34 values pushed */
+4 2 2 0 0 1 97 5 3 6 3 1 1 27 1 78 0 0 33 31 27 25 21 19 15 13 0 11 0 10 36 7 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 814;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (400,0);
+ref = period;
+},
+{
+pos = (800,0);
+ref = period;
+},
+{
+ref = period;
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+5 3 2 0 0 1 97 4 2 6 3 1 1 24 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+5 3 2 0 1 1 0 89 5 3 2 0 0 1 97 4 2 6 3 1 0 1 81 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+0 0 33 31 27 25 21 19 15 13 0 11 0 10 36 7 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 1078;
+}
+);
+note = ellipsis;
+unicode = 8230;
+}

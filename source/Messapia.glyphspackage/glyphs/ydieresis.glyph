@@ -1,0 +1,35 @@
+{
+glyphname = ydieresis;
+kernLeft = y;
+kernRight = y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (169,0);
+ref = dieresiscomb;
+}
+);
+width = 701;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (144,0);
+ref = dieresiscomb;
+}
+);
+width = 795;
+}
+);
+note = ydieresis;
+unicode = 255;
+}

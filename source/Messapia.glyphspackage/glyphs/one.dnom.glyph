@@ -1,0 +1,33 @@
+{
+export = 0;
+glyphname = one.dnom;
+layers = (
+{
+guides = (
+{
+pos = (190,286);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-386);
+ref = onesuperior;
+}
+);
+width = 279;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,-321);
+ref = onesuperior;
+}
+);
+width = 334;
+}
+);
+metricLeft = one;
+metricRight = one;
+}

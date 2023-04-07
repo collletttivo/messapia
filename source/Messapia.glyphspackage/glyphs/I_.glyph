@@ -1,0 +1,132 @@
+{
+glyphname = I;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (216,0);
+},
+{
+name = ogonek;
+pos = (391,0);
+},
+{
+name = top;
+pos = (216,700);
+},
+{
+name = topleft;
+pos = (18,700);
+}
+);
+layerId = m01;
+metricLeft = "=H";
+metricRight = "=H";
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,628,l),
+(176,72,l),
+(40,2,l),
+(40,0,l),
+(392,0,l),
+(392,2,l),
+(256,72,l),
+(256,628,l),
+(392,698,l),
+(392,700,l),
+(40,700,l),
+(40,699,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 9 values pushed */
+9 8 3 2 4 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 1 17 77 0 0 0 21 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 0 1 133 0 0 0 21 0 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+0 0 0 11 0 10 36 3 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 432;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (205,0);
+},
+{
+name = ogonek;
+pos = (290,0);
+},
+{
+name = top;
+pos = (205,700);
+},
+{
+name = topleft;
+pos = (60,700);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+metricLeft = "=H+20";
+metricRight = "=H+20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,700,l),
+(120,0,l),
+(290,0,l),
+(290,700,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 17 77 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 95 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+17 16 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 410;
+}
+);
+metricLeft = H;
+metricRight = H;
+note = I;
+unicode = 73;
+}

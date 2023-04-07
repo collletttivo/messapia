@@ -1,0 +1,33 @@
+{
+export = 0;
+glyphname = zero.dnom;
+layers = (
+{
+guides = (
+{
+pos = (238,280);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-391);
+ref = zerosuperior;
+}
+);
+width = 439;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (0,-321);
+ref = zerosuperior;
+}
+);
+width = 585;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

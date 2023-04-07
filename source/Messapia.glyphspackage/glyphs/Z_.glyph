@@ -1,0 +1,132 @@
+{
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (373,0);
+},
+{
+name = center;
+pos = (373,350);
+},
+{
+name = top;
+pos = (373,700);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,0,l),
+(15,2,l),
+(565,668,l),
+(177,668,l),
+(15,425,l),
+(13,426,l),
+(84,735,l),
+(136,700,l),
+(695,700,l),
+(695,698,l),
+(150,32,l),
+(536,32,l),
+(726,266,l),
+(728,266,l),
+(622,-35,l),
+(620,-35,l),
+(567,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 11 values pushed */
+11 2 2 0 2 1 76 9 1 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 2 2 1 95 0 1 1 17 77 0 0 0 3 95 0 3 3 21 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+0 1 0 2 0 1 2 103 0 0 0 3 95 0 3 3 21 3 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+33 21 33 20 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 746;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (486,0);
+},
+{
+name = center;
+pos = (486,350);
+},
+{
+name = top;
+pos = (486,700);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(888,700,l),
+(86,700,l),
+(86,565,l),
+(654,565,l),
+(75,131,l),
+(75,0,l),
+(897,0,l),
+(897,135,l),
+(320,135,l),
+(888,569,l),
+(888,569,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+9 1 2 3 4 1 1 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 2 2 3 95 0 3 3 17 77 0 0 0 1 95 0 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 3 0 2 0 3 2 103 0 0 0 1 95 0 1 1 18 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 3 0 2 0 3 2 103 0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+17 18 17 16 4 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 972;
+}
+);
+note = Z;
+unicode = 90;
+}

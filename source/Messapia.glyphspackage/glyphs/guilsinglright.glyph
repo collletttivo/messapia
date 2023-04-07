@@ -1,0 +1,37 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (333,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+12 4 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 333;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = guilsinglleft;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+5 2 1 50 
+CALL[ ]	/* CallFunction */";
+};
+width = 434;
+}
+);
+note = guilsinglright;
+unicode = 8250;
+}

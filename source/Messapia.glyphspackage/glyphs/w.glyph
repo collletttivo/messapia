@@ -1,0 +1,160 @@
+{
+glyphname = w;
+kernLeft = v;
+kernRight = w;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(512,438,l),
+(354,73,l),
+(165,438,l),
+(276,498,l),
+(276,500,l),
+(-49,499,l),
+(-49,500,l),
+(78,438,l),
+(307,-8,l),
+(399,-8,l),
+(370,46,l),
+(538,432,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(779,-8,l),
+(752,44,l),
+(919,435,l),
+(1052,498,l),
+(1052,500,l),
+(810,500,l),
+(810,498,l),
+(893,435,l),
+(735,72,l),
+(565,438,l),
+(636,498,l),
+(636,500,l),
+(351,500,l),
+(351,498,l),
+(478,438,l),
+(687,-8,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 37 values pushed */
+26 25 23 22 16 15 14 8 5 4 10 0 2 1 76 4 3 2 2 2 20 77 1 1 0 0 21 0 78 40 37 35 19 18 5 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 1021;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-18,500,l),
+(226,0,l),
+(416,0,l),
+(567,366,l),
+(726,0,l),
+(916,0,l),
+(1139,500,l),
+(953,500,l),
+(815,161,l),
+(662,500,l),
+(469,500,l),
+(327,161,l),
+(168,500,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+4 1 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 1 20 77 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 0 1 133 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 10 values pushed */
+2 1 1 0 1 133 0 0 0 118 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+18 17 16 3 7 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 1140;
+},
+{
+associatedMasterId = m01;
+layerId = "8C80C38C-6902-443A-8794-385A76B65A05";
+name = "11 feb 22, 17:34";
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,46,l),
+(399,-8,l),
+(307,-8,l),
+(77,438,l),
+(-50,500,l),
+(-50,499,l),
+(275,500,l),
+(275,498,l),
+(164,438,l),
+(354,73,l),
+(511,438,l),
+(537,432,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(477,438,l),
+(350,498,l),
+(350,500,l),
+(635,500,l),
+(635,498,l),
+(564,438,l),
+(735,72,l),
+(892,435,l),
+(809,498,l),
+(809,500,l),
+(1051,500,l),
+(1051,498,l),
+(918,435,l),
+(752,44,l),
+(779,-8,l),
+(687,-8,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 37 values pushed */
+26 25 23 22 16 15 14 8 5 4 10 0 2 1 76 4 3 2 2 2 20 77 1 1 0 0 21 0 78 40 37 35 19 18 5 7 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 1021;
+}
+);
+note = w;
+unicode = 119;
+}

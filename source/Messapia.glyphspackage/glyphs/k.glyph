@@ -1,0 +1,301 @@
+{
+glyphname = k;
+kernLeft = k;
+kernRight = k;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (386,0);
+},
+{
+name = top;
+pos = (386,750);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(679,496,l),
+(679,500,l),
+(437,500,l),
+(437,496,l),
+(545,443,l),
+(221,241,l),
+(221,750,l),
+(29,750,l),
+(29,749,l),
+(141,689,l),
+(141,64,l),
+(29,4,l),
+(29,0,l),
+(332,0,l),
+(332,4,l),
+(221,64,l),
+(221,208,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(366,373,l),
+(273,370,l),
+(515,46,l),
+(451,4,l),
+(451,0,l),
+(727,0,l),
+(727,4,l),
+(609,50,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 60 values pushed */
+25 1 1 4 5 1 0 1 24 19 18 17 16 10 2 1 8 2 0 3 76 0 0 1 2 1 0 2 128 5 1 4 4 19 77 0 1 1 20 77 3 1 2 2 21 2 78 0 0 0 27 0 26 38 36 34 19 6 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 767;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (358,0);
+},
+{
+name = top;
+pos = (358,730);
+}
+);
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,232,l),
+(488,0,l),
+(671,0,l),
+(420,309,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(691,500,l),
+(477,500,l),
+(223,316,l),
+(223,750,l),
+(55,750,l),
+(55,0,l),
+(223,0,l),
+(223,160,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+9 8 7 4 1 5 1 0 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 3 3 19 77 0 0 0 20 77 2 1 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 3 3 19 77 0 0 0 1 95 2 1 1 1 18 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 1 1 0 87 2 1 1 1 3 95 4 1 3 3 19 3 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 12 values pushed */
+0 0 0 12 0 12 20 18 18 5 7 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 731;
+},
+{
+associatedMasterId = m01;
+layerId = "2C735073-8B48-4E3F-92DE-00F4D9BA9BAA";
+name = "11 feb 22, 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(740,496,l),
+(740,500,l),
+(498,500,l),
+(498,496,l),
+(581,438,l),
+(222,224,l),
+(222,700,l),
+(30,700,l),
+(30,699,l),
+(142,634,l),
+(142,64,l),
+(30,4,l),
+(30,0,l),
+(333,0,l),
+(333,4,l),
+(222,64,l),
+(222,198,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,347,l),
+(321,344,l),
+(551,64,l),
+(498,4,l),
+(498,0,l),
+(782,0,l),
+(782,4,l),
+(655,64,l),
+(435,328,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 60 values pushed */
+25 1 1 4 5 1 0 1 24 19 18 17 16 10 2 1 8 2 0 3 76 0 0 1 2 1 0 2 128 5 1 4 4 19 77 0 1 1 20 77 3 1 2 2 21 2 78 0 0 0 27 0 26 38 36 34 19 6 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 837;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (373,0);
+},
+{
+name = top;
+pos = (373,730);
+}
+);
+associatedMasterId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+layerId = "A8BC6C4C-2B18-48A4-AE57-D68C808AB63A";
+name = "21 feb 22, 12:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(248,0,l),
+(238,3,l),
+(238,157,l),
+(328,220,l),
+(533,0,l),
+(716,0,l),
+(437,297,l),
+(726,500,l),
+(522,500,l),
+(238,316,l),
+(238,730,l),
+(70,730,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+9 8 7 4 1 5 1 0 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 3 3 19 77 0 0 0 20 77 2 1 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+4 1 3 3 19 77 0 0 0 1 95 2 1 1 1 18 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 1 1 0 87 2 1 1 1 3 95 4 1 3 3 19 3 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 12 values pushed */
+0 0 0 12 0 12 20 18 18 5 7 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 746;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (386,0);
+},
+{
+name = top;
+pos = (386,750);
+}
+);
+associatedMasterId = m01;
+layerId = "179FC63C-E402-4C70-A3C1-AC99D3FF5494";
+name = "23 feb 22, 11:24";
+shapes = (
+{
+closed = 1;
+nodes = (
+(689,496,l),
+(689,500,l),
+(447,500,l),
+(447,496,l),
+(555,443,l),
+(221,231,l),
+(221,750,l),
+(29,750,l),
+(29,749,l),
+(141,689,l),
+(141,64,l),
+(29,4,l),
+(29,0,l),
+(332,0,l),
+(332,4,l),
+(221,64,l),
+(221,198,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(365,367,l),
+(274,364,l),
+(525,46,l),
+(461,4,l),
+(461,0,l),
+(737,0,l),
+(737,4,l),
+(619,50,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 60 values pushed */
+25 1 1 4 5 1 0 1 24 19 18 17 16 10 2 1 8 2 0 3 76 0 0 1 2 1 0 2 128 5 1 4 4 19 77 0 1 1 20 77 3 1 2 2 21 2 78 0 0 0 27 0 26 38 36 34 19 6 7 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 767;
+}
+);
+metricLeft = h;
+note = k;
+unicode = 107;
+}

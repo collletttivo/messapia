@@ -1,0 +1,35 @@
+{
+glyphname = oacute;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (233,0);
+ref = acutecomb;
+}
+);
+width = 712;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (285,0);
+ref = acutecomb;
+}
+);
+width = 840;
+}
+);
+note = oacute;
+unicode = 243;
+}

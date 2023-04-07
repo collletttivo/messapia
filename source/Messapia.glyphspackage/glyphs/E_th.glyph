@@ -1,0 +1,67 @@
+{
+glyphname = Eth;
+kernLeft = D;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,338,l),
+(35,363,l),
+(347,363,l),
+(347,338,l)
+);
+},
+{
+pos = (-20,0);
+ref = D;
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+16 1 4 7 2 1 8 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+6 1 4 5 3 2 0 8 4 0 103 0 7 7 2 95 0 2 2 17 77 0 8 8 1 95 0 1 1 21 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 2 0 7 4 2 7 103 6 1 4 5 3 2 0 8 4 0 103 0 8 8 1 95 0 1 1 21 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 12 values pushed */
+36 33 17 17 17 19 38 50 16 9 7 31 
+CALL[ ]	/* CallFunction */";
+};
+width = 821;
+},
+{
+layerId = "03DC8633-12B9-4C09-834B-15CC0827035A";
+shapes = (
+{
+pos = (105,0);
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(542,404,l),
+(80,404,l),
+(80,277,l),
+(542,277,l)
+);
+}
+);
+width = 1128;
+}
+);
+metricLeft = "=D-20";
+metricRight = D;
+note = Eth;
+unicode = 208;
+}
