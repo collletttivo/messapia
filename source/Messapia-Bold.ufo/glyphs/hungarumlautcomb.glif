@@ -9,7 +9,7 @@ hungarumlaut
   <anchor x="366" y="730" name="top"/>
   <outline>
     <component base="acutecomb" xOffset="20"/>
-    <component base="acutecomb" xOffset="299" identifier="5D7BA379"/>
+    <component base="acutecomb" xOffset="299" identifier="4AE53FCC"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@ PUSHB[ ]	/* 2 values pushed */
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5D7BA379</key>
+        <key>4AE53FCC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

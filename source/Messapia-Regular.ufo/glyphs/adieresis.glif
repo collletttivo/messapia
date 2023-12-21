@@ -7,13 +7,13 @@ adieresis
 </note>
   <outline>
     <component base="a"/>
-    <component base="dieresiscomb" xOffset="173" yOffset="-20" identifier="E6BA85F4"/>
+    <component base="dieresiscomb" xOffset="173" yOffset="-20" identifier="E4129A39"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>E6BA85F4</key>
+        <key>E4129A39</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

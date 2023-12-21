@@ -8,13 +8,13 @@ onehalf
   <outline>
     <component base="one.numr"/>
     <component base="fraction" xOffset="334"/>
-    <component base="two.dnom" xOffset="479" identifier="DF9C4F54"/>
+    <component base="two.dnom" xOffset="479" identifier="8459AB4C"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>DF9C4F54</key>
+        <key>8459AB4C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

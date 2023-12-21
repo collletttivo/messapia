@@ -6,8 +6,8 @@
 i
 </note>
   <outline>
-    <component base="idotless" xOffset="-6" identifier="C38A8FCB"/>
-    <component base="dotaccentcomb" xOffset="75" identifier="64303D2E"/>
+    <component base="idotless" xOffset="-6" identifier="68BCF2EB"/>
+    <component base="dotaccentcomb" xOffset="75" identifier="909C23AB"/>
   </outline>
   <lib>
     <dict>
@@ -21,12 +21,12 @@ CALL[ ]	/* CallFunction */</string>
       <string>=n+10</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>64303D2E</key>
+        <key>68BCF2EB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C38A8FCB</key>
+        <key>909C23AB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

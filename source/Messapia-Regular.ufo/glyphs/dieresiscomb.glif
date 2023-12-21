@@ -9,7 +9,7 @@ dieresis
   <anchor x="182" y="702" name="top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="-7" yOffset="-23"/>
-    <component base="dotaccentcomb" xOffset="170" yOffset="-23" identifier="07546645"/>
+    <component base="dotaccentcomb" xOffset="170" yOffset="-23" identifier="B0565831"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@ PUSHB[ ]	/* 2 values pushed */
 WCVTP[ ]	/* WriteCVTInPixels */</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>07546645</key>
+        <key>B0565831</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

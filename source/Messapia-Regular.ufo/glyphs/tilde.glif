@@ -3,13 +3,13 @@
   <advance width="392"/>
   <unicode hex="02DC"/>
   <outline>
-    <component base="tildecomb" identifier="8811B4DB"/>
+    <component base="tildecomb" identifier="19804AE0"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8811B4DB</key>
+        <key>19804AE0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

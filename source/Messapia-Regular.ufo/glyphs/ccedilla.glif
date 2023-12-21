@@ -7,7 +7,7 @@ ccedilla
 </note>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="182" identifier="C1AD6FBA"/>
+    <component base="cedillacomb" xOffset="182" identifier="7073C129"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@ ccedilla
 CALL[ ]	/* CallFunction */</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C1AD6FBA</key>
+        <key>7073C129</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

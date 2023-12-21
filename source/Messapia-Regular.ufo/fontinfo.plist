@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
-    <string>© Luca Marsano and Collletttivo</string>
+    <string>© 2023, Luca Marsano % Collletttivo</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
@@ -25,7 +25,7 @@
     <key>openTypeNameDesigner</key>
     <string>Luca Marsano</string>
     <key>openTypeNameDesignerURL</key>
-    <string>http://collletttivo.it/</string>
+    <string>https://www.collletttivo.it</string>
     <key>openTypeNameLicense</key>
     <string>SIL OpenFont License</string>
     <key>openTypeNameLicenseURL</key>

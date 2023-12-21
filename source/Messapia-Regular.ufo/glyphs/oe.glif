@@ -6,8 +6,8 @@
 oe
 </note>
   <outline>
-    <component base="o" identifier="4DD5A1F7"/>
-    <component base="e" xOffset="530" identifier="DD39BA1C"/>
+    <component base="o" identifier="D711C219"/>
+    <component base="e" xOffset="530" identifier="E65DDD08"/>
   </outline>
   <lib>
     <dict>
@@ -21,12 +21,12 @@ CALL[ ]	/* CallFunction */</string>
       <string>e</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4DD5A1F7</key>
+        <key>D711C219</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DD39BA1C</key>
+        <key>E65DDD08</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3563,7 +3563,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "© Luca Marsano and Collletttivo";
+value = "© 2023, Luca Marsano % Collletttivo";
 }
 );
 },
@@ -3600,7 +3600,7 @@ value = "SIL OpenFont License";
 },
 {
 key = designerURL;
-value = "http://collletttivo.it/";
+value = "https://www.collletttivo.it";
 },
 {
 key = vendorID;

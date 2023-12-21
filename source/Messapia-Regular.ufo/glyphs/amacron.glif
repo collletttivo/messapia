@@ -7,13 +7,13 @@ amacron
 </note>
   <outline>
     <component base="a"/>
-    <component base="macroncomb" xOffset="176" yOffset="20" identifier="8147E9DC"/>
+    <component base="macroncomb" xOffset="176" yOffset="20" identifier="3B36C918"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8147E9DC</key>
+        <key>3B36C918</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

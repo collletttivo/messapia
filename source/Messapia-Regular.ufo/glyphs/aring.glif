@@ -7,13 +7,13 @@ aring
 </note>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="221" yOffset="10" identifier="6F89CA8B"/>
+    <component base="ringcomb" xOffset="221" yOffset="10" identifier="B574DC99"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>6F89CA8B</key>
+        <key>B574DC99</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

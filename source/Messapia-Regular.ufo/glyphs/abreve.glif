@@ -7,13 +7,13 @@ abreve
 </note>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="171" yOffset="20" identifier="91772E38"/>
+    <component base="brevecomb" xOffset="171" yOffset="20" identifier="21D39404"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>91772E38</key>
+        <key>21D39404</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

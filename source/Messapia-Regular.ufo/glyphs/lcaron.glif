@@ -7,13 +7,13 @@ lcaron
 </note>
   <outline>
     <component base="l"/>
-    <component base="caroncomb.alt" xOffset="257" yOffset="-11" identifier="542E831C"/>
+    <component base="caroncomb.alt" xOffset="257" yOffset="-11" identifier="BF4201BE"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>542E831C</key>
+        <key>BF4201BE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

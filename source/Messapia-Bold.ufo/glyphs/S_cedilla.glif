@@ -7,7 +7,7 @@ Scedilla
 </note>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb" xOffset="252" identifier="3295355A"/>
+    <component base="cedillacomb" xOffset="252" identifier="F40A661F"/>
   </outline>
   <lib>
     <dict>
@@ -84,7 +84,7 @@ NPUSHB[ ]	/* 11 values pushed */
 CALL[ ]	/* CallFunction */</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3295355A</key>
+        <key>F40A661F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

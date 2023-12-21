@@ -4,13 +4,13 @@
   <unicode hex="011F"/>
   <outline>
     <component base="g"/>
-    <component base="brevecomb" xOffset="44" identifier="CD955DF1"/>
+    <component base="brevecomb" xOffset="44" identifier="62FCFD43"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CD955DF1</key>
+        <key>62FCFD43</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

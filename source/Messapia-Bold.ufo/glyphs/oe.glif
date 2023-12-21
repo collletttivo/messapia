@@ -40,7 +40,7 @@ oe
       <point x="281" y="117"/>
       <point x="217" y="157"/>
     </contour>
-    <component base="e" xOffset="581" identifier="34797D30"/>
+    <component base="e" xOffset="581" identifier="62204801"/>
   </outline>
   <lib>
     <dict>
@@ -103,7 +103,7 @@ CALL[ ]	/* CallFunction */</string>
       <string>e</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>34797D30</key>
+        <key>62204801</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

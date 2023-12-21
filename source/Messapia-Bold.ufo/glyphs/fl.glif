@@ -3,8 +3,8 @@
   <advance width="850"/>
   <unicode hex="FB02"/>
   <outline>
-    <component base="f" identifier="B530CA6E"/>
-    <component base="l" xOffset="547" identifier="68D929F2"/>
+    <component base="f" identifier="CA95A53F"/>
+    <component base="l" xOffset="547" identifier="A6835914"/>
   </outline>
   <lib>
     <dict>
@@ -14,12 +14,12 @@
       <string>l</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>68D929F2</key>
+        <key>A6835914</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B530CA6E</key>
+        <key>CA95A53F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

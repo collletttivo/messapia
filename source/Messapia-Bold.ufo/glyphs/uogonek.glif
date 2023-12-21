@@ -7,13 +7,13 @@ uogonek
 </note>
   <outline>
     <component base="u"/>
-    <component base="ogonekcomb" xScale="0.9923" xOffset="416" yOffset="15" identifier="0EFB5381"/>
+    <component base="ogonekcomb" xScale="0.9923" xOffset="416" yOffset="15" identifier="5E2A7FEF"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0EFB5381</key>
+        <key>5E2A7FEF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

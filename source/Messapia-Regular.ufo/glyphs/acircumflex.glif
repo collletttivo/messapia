@@ -7,13 +7,13 @@ acircumflex
 </note>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="187" yOffset="10" identifier="98B6AAC8"/>
+    <component base="circumflexcomb" xOffset="187" yOffset="10" identifier="AA81E4A9"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>98B6AAC8</key>
+        <key>AA81E4A9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
