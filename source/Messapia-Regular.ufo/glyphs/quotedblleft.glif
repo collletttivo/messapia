@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="353"/>
+  <unicode hex="201C"/>
+  <note>
+quotedblleft
+</note>
+  <outline>
+    <component base="quotedblbase" xScale="-1" yScale="-1" xOffset="353" yOffset="653"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 46 values pushed */
+31 12 2 1 0 1 76 26 7 2 0 74 2 1 0 1 1 0 89 2 1 0 0 1 97 3 4 2 1 0 1 81 0 0 42 40 34 32 0 22 0 21 45 5 7 23 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

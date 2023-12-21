@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="486"/>
+  <unicode hex="003C"/>
+  <note>
+less
+</note>
+  <outline>
+    <component base="greater" xScale="-1" xOffset="481"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+5 1 1 50 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron" format="2">
+  <advance width="729"/>
+  <unicode hex="0101"/>
+  <note>
+amacron
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="macroncomb" xOffset="176" yOffset="20" identifier="8147E9DC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8147E9DC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

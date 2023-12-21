@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="484"/>
+  <unicode hex="0022"/>
+  <note>
+quotedbl
+</note>
+  <outline>
+    <component base="quotesingle" xOffset="223"/>
+    <component base="quotesingle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 20 values pushed */
+3 1 1 1 0 95 2 1 0 0 19 1 78 18 18 18 16 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

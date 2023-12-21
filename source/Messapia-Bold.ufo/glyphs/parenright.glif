@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="423"/>
+  <unicode hex="0029"/>
+  <note>
+parenright
+</note>
+  <outline>
+    <component base="parenleft" xScale="-1" xOffset="423"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 27 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 2 1 1 0 1 79 0 0 0 19 0 19 41 3 7 23 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

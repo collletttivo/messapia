@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve" format="2">
+  <advance width="729"/>
+  <unicode hex="0103"/>
+  <note>
+abreve
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="171" yOffset="20" identifier="91772E38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>91772E38</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

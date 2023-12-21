@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <advance width="419"/>
+  <unicode hex="2248"/>
+  <note>
+approxequal
+</note>
+  <outline>
+    <component base="asciitilde" xOffset="-15" yOffset="-100" identifier="962B7EF2"/>
+    <component base="asciitilde" xOffset="-15" yOffset="47" identifier="D6524A45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>962B7EF2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D6524A45</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

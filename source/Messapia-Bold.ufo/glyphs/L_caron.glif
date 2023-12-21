@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="806"/>
+  <unicode hex="013D"/>
+  <note>
+Lcaron
+</note>
+  <outline>
+    <component base="L"/>
+    <component base="caroncomb.alt" xOffset="347" yOffset="-30" identifier="242E0798"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>242E0798</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

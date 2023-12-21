@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="541"/>
+  <unicode hex="007D"/>
+  <note>
+braceright
+</note>
+  <outline>
+    <component base="braceleft" xScale="-1" xOffset="541"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 47 values pushed */
+11 1 5 4 1 76 0 3 0 2 4 3 2 103 0 4 0 5 1 4 5 105 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 33 37 33 42 33 33 6 7 28 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

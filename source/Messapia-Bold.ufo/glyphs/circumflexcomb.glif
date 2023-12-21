@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="776"/>
+  <unicode hex="0302"/>
+  <note>
+circumflex
+</note>
+  <anchor x="388" y="500" name="_top"/>
+  <anchor x="388" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="389" y="652" type="line"/>
+      <point x="464" y="571" type="line"/>
+      <point x="637" y="571" type="line"/>
+      <point x="479" y="730" type="line"/>
+      <point x="297" y="730" type="line"/>
+      <point x="139" y="571" type="line"/>
+      <point x="314" y="571" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+8 1 0 1 1 76 0 1 0 1 133 2 1 0 0 118 33 18 16 3 7 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

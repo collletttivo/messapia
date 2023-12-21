@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla" format="2">
+  <advance width="664"/>
+  <unicode hex="015F"/>
+  <note>
+scedilla
+</note>
+  <outline>
+    <component base="s"/>
+    <component base="cedillacomb" xOffset="215"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 60 values pushed */
+22 1 2 1 64 23 21 3 0 2 65 62 2 3 0 3 76 61 60 51 3 5 73 0 4 0 5 4 5 101 0 2 2 1 97 0 1 1 26 77 0 0 0 3 97 0 3 3 27 3 78 45 49 42 39 43 36 6 7 28 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

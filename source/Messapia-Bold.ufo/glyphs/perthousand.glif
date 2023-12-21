@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1554"/>
+  <unicode hex="2030"/>
+  <note>
+perthousand
+</note>
+  <outline>
+    <contour>
+      <point x="174" y="1" type="line"/>
+      <point x="337" y="1" type="line"/>
+      <point x="902" y="700" type="line"/>
+      <point x="739" y="700" type="line"/>
+    </contour>
+    <component base="zerosuperior" xScale="0.8264" yScale="0.8264" xOffset="47" yOffset="135"/>
+    <component base="zerosuperior" xScale="0.8264" yScale="0.8264" xOffset="557" yOffset="-265"/>
+    <component base="zerosuperior" xScale="0.8264" yScale="0.8264" xOffset="1034" yOffset="-265"/>
+  </outline>
+</glyph>

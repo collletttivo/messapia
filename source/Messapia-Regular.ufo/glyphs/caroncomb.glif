@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance width="336"/>
+  <unicode hex="030C"/>
+  <note>
+caron
+</note>
+  <anchor x="168" y="500" name="_top"/>
+  <anchor x="168" y="737" name="top"/>
+  <outline>
+    <component base="circumflexcomb" yScale="-1" yOffset="1305"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 22 values pushed */
+11 10 8 6 5 5 0 74 1 1 0 0 118 0 0 0 17 0 16 2 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

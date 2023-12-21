@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="441"/>
+  <unicode hex="0237"/>
+  <note>
+uni0237
+</note>
+  <anchor x="221" y="-200" name="bottom"/>
+  <anchor x="286" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="-42" y="-131" type="curve"/>
+      <point x="17" y="-58" type="line"/>
+      <point x="19" y="-58" type="line"/>
+      <point x="33" y="-166"/>
+      <point x="84" y="-226"/>
+      <point x="147" y="-226" type="curve" smooth="yes"/>
+      <point x="217" y="-226"/>
+      <point x="247" y="-143"/>
+      <point x="247" y="-34" type="curve" smooth="yes"/>
+      <point x="247" y="437" type="line"/>
+      <point x="84" y="498" type="line"/>
+      <point x="84" y="500" type="line"/>
+      <point x="327" y="500" type="line"/>
+      <point x="327" y="-24" type="line" smooth="yes"/>
+      <point x="327" y="-155"/>
+      <point x="271" y="-250"/>
+      <point x="142" y="-250" type="curve" smooth="yes"/>
+      <point x="86" y="-250"/>
+      <point x="17" y="-225"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 30 values pushed */
+18 16 9 3 2 1 1 76 0 1 1 20 77 0 2 2 0 97 0 0 0 22 0 78 37 19 33 3 7 25 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

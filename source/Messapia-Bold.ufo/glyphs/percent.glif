@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="1345"/>
+  <unicode hex="0025"/>
+  <note>
+percent
+</note>
+  <outline>
+    <contour>
+      <point x="308" y="1" type="line"/>
+      <point x="471" y="1" type="line"/>
+      <point x="1036" y="700" type="line"/>
+      <point x="873" y="700" type="line"/>
+    </contour>
+    <component base="zerosuperior" xOffset="20" yOffset="17"/>
+    <component base="zerosuperior" xOffset="740" yOffset="-333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+14 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+0 2 10 1 1 8 2 1 105 0 3 3 0 97 4 1 0 0 19 77 0 9 9 6 97 0 6 6 20 77 0 8 8 5 97 7 1 5 5 18 5 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+20 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 46 values pushed */
+0 2 10 1 1 8 2 1 105 0 4 4 19 77 0 3 3 0 97 0 0 0 19 77 0 9 9 6 97 0 6 6 20 77 0 8 8 5 97 7 1 5 5 18 5 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+24 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 50 values pushed */
+0 2 10 1 1 8 2 1 105 0 4 4 19 77 0 3 3 0 97 0 0 0 19 77 0 9 9 6 97 0 6 6 20 77 0 5 5 18 77 0 8 8 7 97 0 7 7 24 7 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 48 values pushed */
+0 6 0 9 2 6 9 105 0 2 10 1 1 8 2 1 105 0 4 4 19 77 0 3 3 0 97 0 0 0 19 77 0 5 5 18 77 0 8 8 7 97 0 7 7 24 7 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 48 values pushed */
+0 5 8 7 8 5 7 128 0 6 0 9 2 6 9 105 0 2 10 1 1 8 2 1 105 0 8 0 7 8 7 101 0 4 4 19 77 0 3 3 0 97 0 0 0 19 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 46 values pushed */
+0 5 8 7 8 5 7 128 0 0 0 3 6 0 3 105 0 6 0 9 2 6 9 105 0 2 10 1 1 8 2 1 105 0 8 0 7 8 7 101 0 4 4 19 4 78 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 26 values pushed */
+0 0 59 57 53 51 46 44 38 36 32 31 29 28 25 23 19 17 0 15 0 14 38 11 7 23 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

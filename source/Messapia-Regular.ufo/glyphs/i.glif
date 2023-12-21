@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="369"/>
+  <unicode hex="0069"/>
+  <note>
+i
+</note>
+  <outline>
+    <component base="idotless" xOffset="-6" identifier="C38A8FCB"/>
+    <component base="dotaccentcomb" xOffset="75" identifier="64303D2E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 44 values pushed */
+18 14 13 3 3 2 1 76 0 0 1 0 133 4 1 1 2 1 133 0 2 2 20 77 0 3 3 21 3 78 0 0 21 19 17 15 0 11 0 10 36 5 7 23 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=n+10</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>64303D2E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C38A8FCB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

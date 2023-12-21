@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis" format="2">
+  <advance width="729"/>
+  <unicode hex="00E4"/>
+  <note>
+adieresis
+</note>
+  <outline>
+    <component base="a"/>
+    <component base="dieresiscomb" xOffset="173" yOffset="-20" identifier="E6BA85F4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E6BA85F4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

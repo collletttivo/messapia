@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="338"/>
+  <unicode hex="00ED"/>
+  <note>
+iacute
+</note>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 1 2 0 1 103 0 2 2 20 77 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 1 2 0 1 103 0 2 2 3 95 0 3 3 18 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 1 2 0 1 103 0 2 3 3 2 87 0 2 2 3 95 0 3 2 3 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+17 18 18 16 4 7 26 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

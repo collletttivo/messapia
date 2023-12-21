@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="939"/>
+  <unicode hex="0048"/>
+  <note>
+H
+</note>
+  <outline>
+    <contour>
+      <point x="708" y="628" type="line"/>
+      <point x="708" y="72" type="line"/>
+      <point x="598" y="4" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="899" y="4" type="line"/>
+      <point x="791" y="72" type="line"/>
+      <point x="791" y="628" type="line"/>
+      <point x="899" y="699" type="line"/>
+      <point x="899" y="700" type="line"/>
+      <point x="598" y="700" type="line"/>
+      <point x="598" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="72" type="line"/>
+      <point x="233" y="628" type="line"/>
+      <point x="341" y="696" type="line"/>
+      <point x="341" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="696" type="line"/>
+      <point x="150" y="628" type="line"/>
+      <point x="150" y="72" type="line"/>
+      <point x="40" y="4" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="715" y="349" type="line"/>
+      <point x="715" y="381" type="line"/>
+      <point x="226" y="381" type="line"/>
+      <point x="226" y="349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 16 values pushed */
+25 10 5 2 4 0 1 24 19 16 11 4 2 3 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+23 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 0 0 3 2 0 3 103 6 5 2 1 1 17 77 4 1 2 2 21 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+6 5 2 1 0 1 133 0 0 0 3 2 0 3 103 4 1 2 2 21 2 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 27 0 26 34 19 36 34 19 7 7 27 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

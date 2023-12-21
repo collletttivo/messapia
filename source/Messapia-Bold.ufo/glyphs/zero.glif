@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="1015"/>
+  <unicode hex="0030"/>
+  <note>
+zero
+</note>
+  <outline>
+    <contour>
+      <point x="508" y="-15" type="curve" smooth="yes"/>
+      <point x="783" y="-15"/>
+      <point x="955" y="127"/>
+      <point x="955" y="353" type="curve" smooth="yes"/>
+      <point x="955" y="575"/>
+      <point x="783" y="715"/>
+      <point x="508" y="715" type="curve" smooth="yes"/>
+      <point x="239" y="715"/>
+      <point x="70" y="575"/>
+      <point x="70" y="353" type="curve" smooth="yes"/>
+      <point x="70" y="127"/>
+      <point x="239" y="-15"/>
+    </contour>
+    <contour>
+      <point x="245" y="350" type="curve" smooth="yes"/>
+      <point x="245" y="495"/>
+      <point x="339" y="575"/>
+      <point x="508" y="575" type="curve" smooth="yes"/>
+      <point x="683" y="575"/>
+      <point x="780" y="497"/>
+      <point x="780" y="355" type="curve" smooth="yes"/>
+      <point x="780" y="206"/>
+      <point x="683" y="125"/>
+      <point x="508" y="125" type="curve" smooth="yes"/>
+      <point x="339" y="125"/>
+      <point x="245" y="205"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+38 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 3 3 0 97 0 0 0 23 77 0 2 2 1 97 4 1 1 1 27 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 3 3 0 97 0 0 0 19 77 0 2 2 1 97 4 1 1 1 24 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 2 4 1 1 2 1 101 0 3 3 0 97 0 0 0 19 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 25 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 4 1 1 2 1 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 25 23 19 17 0 15 0 14 38 5 7 23 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

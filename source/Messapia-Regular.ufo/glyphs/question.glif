@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="517"/>
+  <unicode hex="003F"/>
+  <note>
+question
+</note>
+  <outline>
+    <contour>
+      <point x="212" y="323" type="line"/>
+      <point x="305" y="328"/>
+      <point x="409" y="369"/>
+      <point x="409" y="518" type="curve" smooth="yes"/>
+      <point x="409" y="633"/>
+      <point x="346" y="690"/>
+      <point x="249" y="690" type="curve" smooth="yes"/>
+      <point x="144" y="690"/>
+      <point x="82" y="630"/>
+      <point x="78" y="483" type="curve"/>
+      <point x="-7" y="528" type="line"/>
+      <point x="19" y="647"/>
+      <point x="118" y="715"/>
+      <point x="251" y="715" type="curve" smooth="yes"/>
+      <point x="395" y="715"/>
+      <point x="487" y="637"/>
+      <point x="487" y="518" type="curve" smooth="yes"/>
+      <point x="487" y="370"/>
+      <point x="354" y="297"/>
+      <point x="249" y="295" type="curve"/>
+      <point x="243" y="175" type="line"/>
+      <point x="217" y="175" type="line"/>
+    </contour>
+    <component base="period" xOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 7 values pushed */
+15 14 2 4 3 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+11 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 37 values pushed */
+0 0 1 5 1 0 114 0 5 6 1 5 6 126 0 6 6 132 0 4 0 1 0 4 1 105 0 3 3 2 97 0 2 2 19 3 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+44 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 38 values pushed */
+0 0 1 5 1 0 5 128 0 5 6 1 5 6 126 0 6 6 132 0 4 0 1 0 4 1 105 0 3 3 2 97 0 2 2 19 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 43 values pushed */
+0 0 1 5 1 0 5 128 0 5 6 1 5 6 126 0 6 6 132 0 2 0 3 4 2 3 105 0 4 1 1 4 89 0 4 4 1 97 0 1 4 1 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+36 34 20 38 38 17 16 7 7 29 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

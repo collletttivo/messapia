@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="841"/>
+  <unicode hex="0110"/>
+  <note>
+Dcroat
+</note>
+  <outline>
+    <contour>
+      <point x="357" y="308" type="line"/>
+      <point x="45" y="308" type="line"/>
+      <point x="45" y="333" type="line"/>
+      <point x="357" y="333" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 10 values pushed */
+16 1 4 7 2 1 8 0 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+25 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+6 1 4 5 3 2 0 8 4 0 103 0 7 7 2 95 0 2 2 17 77 0 8 8 1 95 0 1 1 21 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 2 0 7 4 2 7 103 6 1 4 5 3 2 0 8 4 0 103 0 8 8 1 95 0 1 1 21 1 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 12 values pushed */
+36 33 17 17 17 19 38 50 16 9 7 31 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

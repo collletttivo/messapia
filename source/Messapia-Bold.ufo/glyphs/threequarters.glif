@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="1207"/>
+  <unicode hex="00BE"/>
+  <note>
+threequarters
+</note>
+  <outline>
+    <component base="three.numr"/>
+    <component base="fraction" xOffset="534"/>
+    <component base="four.dnom" xOffset="654" identifier="3BC97B94"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3BC97B94</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

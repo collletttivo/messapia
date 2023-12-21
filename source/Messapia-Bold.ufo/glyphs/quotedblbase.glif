@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="503"/>
+  <unicode hex="201E"/>
+  <note>
+quotedblbase
+</note>
+  <outline>
+    <component base="quotesinglbase"/>
+    <component base="quotesinglbase" xOffset="210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+4 1 0 1 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+42 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 2 0 2 134 0 1 1 0 95 0 0 0 18 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+0 2 0 2 134 0 1 0 0 1 87 0 1 1 0 95 0 0 1 0 79 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+18 17 16 3 7 25 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

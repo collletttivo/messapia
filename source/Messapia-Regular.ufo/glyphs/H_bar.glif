@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="939"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="708" y="628" type="line"/>
+      <point x="708" y="72" type="line"/>
+      <point x="598" y="4" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="899" y="4" type="line"/>
+      <point x="791" y="72" type="line"/>
+      <point x="791" y="628" type="line"/>
+      <point x="899" y="699" type="line"/>
+      <point x="899" y="700" type="line"/>
+      <point x="598" y="700" type="line"/>
+      <point x="598" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="72" type="line"/>
+      <point x="233" y="628" type="line"/>
+      <point x="341" y="696" type="line"/>
+      <point x="341" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="696" type="line"/>
+      <point x="150" y="628" type="line"/>
+      <point x="150" y="72" type="line"/>
+      <point x="40" y="4" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="715" y="349" type="line"/>
+      <point x="715" y="381" type="line"/>
+      <point x="226" y="381" type="line"/>
+      <point x="226" y="349" type="line"/>
+    </contour>
+    <contour>
+      <point x="880" y="489" type="line"/>
+      <point x="880" y="521" type="line"/>
+      <point x="61" y="521" type="line"/>
+      <point x="61" y="489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+    </dict>
+  </lib>
+</glyph>

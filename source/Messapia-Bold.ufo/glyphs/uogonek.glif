@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uogonek" format="2">
+  <advance width="883"/>
+  <unicode hex="0173"/>
+  <note>
+uogonek
+</note>
+  <outline>
+    <component base="u"/>
+    <component base="ogonekcomb" xScale="0.9923" xOffset="416" yOffset="15" identifier="0EFB5381"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0EFB5381</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

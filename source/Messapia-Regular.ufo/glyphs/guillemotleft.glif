@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotleft" format="2">
+  <advance width="483"/>
+  <unicode hex="00AB"/>
+  <note>
+guillemotleft
+</note>
+  <outline>
+    <component base="guilsinglleft" xOffset="-20"/>
+    <component base="guilsinglleft" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+23 17 13 7 2 50 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

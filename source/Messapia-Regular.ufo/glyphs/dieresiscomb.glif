@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="363"/>
+  <unicode hex="0308"/>
+  <note>
+dieresis
+</note>
+  <anchor x="182" y="500" name="_top"/>
+  <anchor x="182" y="702" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="-7" yOffset="-23"/>
+    <component base="dotaccentcomb" xOffset="170" yOffset="-23" identifier="07546645"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 26 values pushed */
+2 1 1 0 0 1 89 2 1 1 1 0 97 3 1 0 1 0 81 38 38 38 34 4 7 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>07546645</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

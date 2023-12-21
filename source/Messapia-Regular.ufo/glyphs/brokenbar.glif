@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="120"/>
+  <unicode hex="00A6"/>
+  <note>
+brokenbar
+</note>
+  <outline>
+    <component base="bar" yScale="0.3776" xOffset="-6" yOffset="466"/>
+    <component base="bar" yScale="0.3776" xOffset="-6" yOffset="-94"/>
+  </outline>
+</glyph>
